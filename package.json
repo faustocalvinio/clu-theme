@@ -1,8 +1,8 @@
 {
   "name": "clu-theme",
-  "displayName": "CLU-theme",
+  "displayName": "CLU",
   "description": "theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "faustocalvinio",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "vscode": "^1.101.0"
   },
   "categories": [
-    "Themes","Color Themes"
+    "Themes"
   ],
   "contributes": {
     "themes": [
