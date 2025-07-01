@@ -5,12 +5,11 @@
       "editor.background": "#000000",
       "editor.foreground": "#E0F7FA",
       "editorCursor.foreground": "#00FFFF",
-      "editor.lineHighlightBackground": "#bcb90643",
+      "editor.lineHighlightBackground": "#005086cb",
       "editor.selectionBackground": "#014a4f",
 
       "editor.inactiveSelectionBackground": "#003B5C80",
-      "editorIndentGuide.background": "#2E2E2E",
-      "editorIndentGuide.activeBackground": "#5A5A5A",
+      
       "activityBar.background": "#000000",
       "sideBar.background": "#000000",
       "statusBar.background": "#00121c",
@@ -30,6 +29,24 @@
          }
       },
       {
+         "scope": ["string", "constant.other.string"],
+         "settings": {
+            "foreground": "#FFAB40"
+         }
+      },
+      {
+         "scope": ["constant", "constant.language"],
+         "settings": {
+            "foreground": "#FF4081"
+         }
+      },
+      {
+         "scope": ["entity.name.type", "entity.name.class"],
+         "settings": {
+            "foreground": "#FFF176"
+         }
+      },
+      {
          "scope": ["string", "constant.other.symbol"],
          "settings": {
             "foreground": "#FFF176"
@@ -44,13 +61,13 @@
       {
          "scope": ["comment", "punctuation.definition.comment"],
          "settings": {
-            "foreground": "#dadada"
+            "foreground": "#5cbeff"
          }
       },
       {
          "scope": ["function", "entity.name.function"],
          "settings": {
-            "foreground": "#00FF94"
+            "foreground": "#2667ff"
          }
       },
       {
@@ -62,8 +79,39 @@
       {
          "scope": ["invalid", "invalid.illegal"],
          "settings": {
-            "foreground": "#FF3B3B",
+            "foreground": "#ff0000",
             "fontStyle": "underline"
+         }
+      },
+      {
+         "scope": ["support", "support.class", "support.function"],
+         "settings": {
+            "foreground": "#FF4081"
+         }
+      },
+      {
+         "scope": ["meta", "meta.definition.variable"],
+         "settings": {
+            "foreground": "#FFAB40"
+         }
+      },
+      {
+         "scope": ["markup.heading", "markup.heading.setext"],
+         "settings": {
+            "foreground": "#FFEB3B",
+            "fontStyle": "bold"
+         }
+      },
+      {
+         "scope": ["markup.italic"],
+         "settings": {
+            "fontStyle": "italic"
+         }
+      },
+      {
+         "scope": ["markup.bold"],
+         "settings": {
+            "fontStyle": "bold"
          }
       }
    ]
