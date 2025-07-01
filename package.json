@@ -2,8 +2,10 @@
   "name": "clu-theme",
   "displayName": "CLU",
   "description": "theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "faustocalvinio",
+  "license": "MIT",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/faustocalvinio/clu-theme.git"

@@ -1,16 +1,19 @@
-# clu-theme README
+# This is the README for the CLU theme extension for Visual Studio Code.
 
-## Working with Markdown
+# It provides a dark blue color scheme with a focus on readability and accessibility.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+# ## Features
+- Dark blue color scheme
+- High contrast for better readability
+- Customizable CSS variables for easy theme adjustments
+- Support for various programming languages with syntax highlighting
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# ## Installation
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
+3. Search for "CLU Theme" by Fausto Calviño.
+4. Click on the Install button to install the theme.
+5. After installation, click on the Reload button to activate the theme.
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# ## Usage
