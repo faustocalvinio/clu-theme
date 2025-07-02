@@ -23,3 +23,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Starting to change the theme to a more blueish color scheme
 - Updated editor background color to a darker shade
 - Changed selection background color for better contrast
+
+## [v0.0.5] - 2025-07-02
+
+- Refined blue color palette for better consistency across UI elements
+- Improved status bar and sidebar backgrounds for a more unified look
+- Enhanced contrast for buttons and active title bar
+- Updated token colors for classes, interfaces, and decorators to improve readability
+- Minor tweaks to comments and headings for clarity
