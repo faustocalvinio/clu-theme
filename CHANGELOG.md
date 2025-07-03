@@ -31,3 +31,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Enhanced contrast for buttons and active title bar
 - Updated token colors for classes, interfaces, and decorators to improve readability
 - Minor tweaks to comments and headings for clarity
+
+## [v0.0.6] - 2025-07-03
+
+- Enhance CLU color theme with additional color settings
